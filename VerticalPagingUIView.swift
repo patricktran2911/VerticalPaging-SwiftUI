@@ -1,6 +1,5 @@
 //
 //  VerticalPagingUIView.swift
-//  Fanfly (iOS)
 //
 //  Created by Patrick Tran on 11/10/23.
 //
