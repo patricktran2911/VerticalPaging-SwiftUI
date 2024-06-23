@@ -51,7 +51,7 @@ struct VerticalPagingView: View {
 }
 
 #Preview {
-    VerticalPagingView() {
+    VerticalPagingView {
         [
             AnyView(Color.red),
             AnyView(Color.green),
